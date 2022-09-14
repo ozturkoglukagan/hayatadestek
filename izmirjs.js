@@ -6,7 +6,7 @@
 // function name(params) {
     
 // }
-
+alert("bu degisiklik githubda yapildi")
 
 function mesaj() {
     var nickname = document.getElementById("isim").value
